@@ -1,0 +1,46 @@
+.App {
+  text-align: center;
+}
+ 
+.additems {
+  display: flex;
+  justify-content: center;
+}
+.txt {
+  margin-top: 5px;
+  display: flex;
+  justify-content: center;
+}
+.inputid {
+  margin-top: 15px;
+
+  display: flex;
+  justify-content: center;
+}
+.imgid {
+  display: flex;
+  justify-content: center;
+  margin-top: 20px;
+  
+
+}
+.selected{
+  color: red;
+}
+.selected1{
+  color: yellow;
+}
+.userName{
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+/* .active {
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+} */
